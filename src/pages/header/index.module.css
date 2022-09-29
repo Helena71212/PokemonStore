@@ -1,0 +1,64 @@
+.wrapper{
+   margin: 0 auto;
+   max-width: 1280px;
+   padding:  15px;
+   background-color: #eee;
+   align-items: center;
+   display: flex;
+   justify-content: space-between;
+   }
+
+.headerAuth{
+   display: flex;
+   gap: 20px;
+}
+.personArea{
+   display: flex;
+   align-items: center;
+   padding: 10px 0;
+}
+
+.personAreaIcon{
+   cursor: pointer;
+   font-size: 20px;
+}
+.headerCart{
+   display: flex;
+   align-items: center;
+   position: relative;
+   padding: 10px 0;
+}
+.headerCartIcon{
+   position: relative;
+   cursor: pointer;
+   font-size: 25px;
+}
+.headerCartTotalPrice{
+   margin-left: 10px;
+   font-size: 18px;
+   font-weight: 700;
+}
+.headerSignIn{
+   text-decoration: none;
+   display: inline-block;
+   color: black;
+   font-weight: 800;
+   font-size: 18px;
+   padding: 10px 0;
+}
+.headerSignUp{
+   text-decoration: none;
+   display: inline-block;
+   color: black;
+   font-weight: 800;
+   font-size: 18px;
+   padding: 10px 10px 0 0;
+}
+
+.headerTitle{
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+  color: #247CC0;
+}
+

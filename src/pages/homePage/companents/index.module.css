@@ -1,0 +1,19 @@
+.wrapperHome{
+   margin: 0 auto;
+   max-width: 1280px;
+   height: 100%;
+   align-items: center; 
+}
+
+
+.homeTitle h2{
+   text-align: center;
+   color: rgb(36, 3, 115);
+   font-size: 50px;
+}
+
+.image {
+	max-height:450px;
+	width: 100%;
+	
+}

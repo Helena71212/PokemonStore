@@ -1,0 +1,10 @@
+.footerWrapper
+   {
+      margin: 0 auto;
+      max-width: 1280px;
+      padding:  15px;
+      background-color: #eee;
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      }
